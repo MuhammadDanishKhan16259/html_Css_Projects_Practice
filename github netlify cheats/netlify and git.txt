@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=Ey_90l9GaAw&list=LL&index=29
+
+https://www.linkedin.com/in/danish-khan-400106203
+
+git config user.name "MuhammadDanishKhan16259"
+git config credential.username "MuhammadDanishKhan16259"
+
+
+githib update code commands
+git add .
+git status
+git commit -m "notification"
+git push -u origin
+
+git clone 
+git clone https://github.com/thapatechnical/thapareactecom.git

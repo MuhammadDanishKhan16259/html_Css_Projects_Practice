@@ -1,0 +1,16 @@
+https://restaurantv2.vercel.app/
+git config user.name "MuhammadDanishKhan16259"
+git config credential.username "MuhammadDanishKhan16259"
+
+Engineer code wala for react native
+  const config = {
+    method: reMethod,
+    url: url,
+    data : data,
+    headers:{
+      "Content-Type":"application/json",
+      "Accept":"application/json"
+    }
+  }
+
+git clone https://github.com/thapatechnical/thapareactecom.git
